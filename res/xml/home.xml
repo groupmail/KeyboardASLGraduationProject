@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="100dp"
+    android:keyHeight="70dp"
+    android:verticalGap="10dp">
+    <Row>
+        <Key android:codes="61817"                                                 android:keyIcon="@drawable/lett_alef"                      android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left" />
+        <Key android:codes="61818"                   android:horizontalGap="10dp"   android:keyIcon="@drawable/num_eight"                        android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61819"                 android:horizontalGap="10dp"   android:keyIcon="@drawable/num_eight"                  android:iconPreview="@drawable/ic_launcheeeer" />
+        
+    </Row>		        
+    <Row>
+        <Key android:codes="61820"                                 android:keyIcon="@drawable/num_eight"                    android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left"  />
+        <Key android:codes="61821"     android:horizontalGap="10dp"   android:keyIcon="@drawable/lett_alef"                        android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61822"     android:horizontalGap="10dp"   android:keyIcon="@drawable/lett_alef"                       android:iconPreview="@drawable/ic_launcheeeer" />
+        
+        
+        
+    </Row>
+    <Row>
+        <Key android:codes="61823"   android:keyWidth="100dp"       android:keyHeight="110dp"                               android:keyIcon="@drawable/home_esteshwar"                    android:iconPreview="@drawable/ic_launcheeeer"  android:keyEdgeFlags="left" />
+        <Key android:codes="61824"   android:keyWidth="100dp"       android:keyHeight="110dp"       android:horizontalGap="10dp"   android:keyIcon="@drawable/home_esfing_ghaseel"               android:iconPreview="@drawable/ic_launcheeeer"  />
+        <Key android:codes="61825"   android:keyWidth="100dp"       android:keyHeight="110dp"       android:horizontalGap="10dp"   android:keyIcon="@drawable/home_elhmaam"                      android:iconPreview="@drawable/ic_launcheeeer"  android:keyEdgeFlags="left" />
+        
+    </Row> 
+    <Row>
+        
+        <Key android:codes="61826"   android:keyWidth="100dp"       android:keyHeight="110dp"                               android:keyIcon="@drawable/home_eswerah"                      android:iconPreview="@drawable/ic_launcheeeer"  android:keyEdgeFlags="left" />
+        <Key android:codes="61827"   android:keyWidth="100dp"       android:keyHeight="110dp"    android:horizontalGap="10dp"   android:keyIcon="@drawable/home_desh"                         android:iconPreview="@drawable/ic_launcheeeer"  />
+        <Key android:codes="61828"   android:keyWidth="100dp"       android:keyHeight="110dp"    android:horizontalGap="10dp"   android:keyIcon="@drawable/home_anbobit_ghas"                 android:iconPreview="@drawable/ic_launcheeeer" />
+        
+    </Row>		        
+    <Row>
+        <Key android:codes="61829"   android:keyWidth="100dp"       android:keyHeight="110dp"                               android:keyIcon="@drawable/home_suit"                         android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left"  />
+        <Key android:codes="61830"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_blover_soof"                  android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61831"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_bantloon_jeans"               android:iconPreview="@drawable/ic_launcheeeer" />
+        
+        
+        
+    </Row>
+    <Row>
+        <Key android:codes="61832"     android:keyWidth="100dp"       android:keyHeight="110dp"                             android:keyIcon="@drawable/home_botagas"                      android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left" />
+        <Key android:codes="61833"    android:keyWidth="100dp"       android:keyHeight="110dp"  android:horizontalGap="10dp"  android:keyIcon="@drawable/home_bodrit_talk"                  android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61834"    android:keyWidth="100dp"       android:keyHeight="110dp"  android:horizontalGap="10dp"  android:keyIcon="@drawable/home_tormos"                       android:iconPreview="@drawable/ic_launcheeeer" />
+        
+    </Row>  
+    <Row>
+        <Key android:codes="61835"    android:keyWidth="100dp"       android:keyHeight="110dp"                              android:keyIcon="@drawable/home_termometer"                   android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left" />
+        <Key android:codes="61836"   android:keyWidth="100dp"       android:keyHeight="110dp"  android:horizontalGap="10dp"   android:keyIcon="@drawable/home_tasrihah"                     android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61837"   android:keyWidth="100dp"       android:keyHeight="110dp"  android:horizontalGap="10dp"   android:keyIcon="@drawable/home_tafseel"                      android:iconPreview="@drawable/ic_launcheeeer" />
+   
+    </Row>	
+     <Row>
+        <Key android:codes="61838"    android:keyWidth="100dp"       android:keyHeight="110dp"                              android:keyIcon="@drawable/home_tv"                           android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left" />
+        <Key android:codes="61839"   android:keyWidth="100dp"       android:keyHeight="110dp"  android:horizontalGap="10dp"   android:keyIcon="@drawable/home_tokit_shaar"                  android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61841"   android:keyWidth="100dp"       android:keyHeight="110dp"  android:horizontalGap="10dp"   android:keyIcon="@drawable/home_talagah"                      android:iconPreview="@drawable/ic_launcheeeer" />
+        
+    </Row>
+     <Row>
+        <Key android:codes="61842"   android:keyWidth="100dp"       android:keyHeight="110dp"                               android:keyIcon="@drawable/home_jacket_geld"                  android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left" />
+        <Key android:codes="61843"   android:keyWidth="100dp"       android:keyHeight="110dp"  android:horizontalGap="10dp"   android:keyIcon="@drawable/home_gamaloon"                     android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61844"   android:keyWidth="100dp"       android:keyHeight="110dp"  android:horizontalGap="10dp"   android:keyIcon="@drawable/home_jibaa"                        android:iconPreview="@drawable/ic_launcheeeer" />
+        
+    </Row>
+     <Row>
+        <Key android:codes="61845"   android:keyWidth="100dp"       android:keyHeight="110dp"                               android:keyIcon="@drawable/home_hafezit_taaam"                android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left" />
+        <Key android:codes="61846"   android:keyWidth="100dp"       android:keyHeight="110dp"  android:horizontalGap="10dp"   android:keyIcon="@drawable/home_hejab"                        android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61847"   android:keyWidth="100dp"       android:keyHeight="110dp"  android:horizontalGap="10dp"   android:keyIcon="@drawable/home_silk"                         android:iconPreview="@drawable/ic_launcheeeer" />
+        
+    </Row>
+    <Row>
+        <Key android:codes="61848"   android:keyWidth="100dp"       android:keyHeight="110dp"                               android:keyIcon="@drawable/home_handbag"                      android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left" />
+        <Key android:codes="61849"   android:keyWidth="100dp"       android:keyHeight="110dp"    android:horizontalGap="10dp"   android:keyIcon="@drawable/home_khalat"                       android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61850"  android:keyWidth="100dp"       android:keyHeight="110dp"     android:horizontalGap="10dp"   android:keyIcon="@drawable/home_khyatah"                      android:iconPreview="@drawable/ic_launcheeeer" />
+        
+    </Row>
+     <Row>
+        <Key android:codes="61851"    android:keyWidth="100dp"       android:keyHeight="110dp"                              android:keyIcon="@drawable/home_kheet"                        android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left" />
+        <Key android:codes="61852"   android:keyWidth="100dp"       android:keyHeight="110dp"  android:horizontalGap="10dp"   android:keyIcon="@drawable/home_dolab"                        android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61853"   android:keyWidth="100dp"       android:keyHeight="110dp"  android:horizontalGap="10dp"   android:keyIcon="@drawable/home_rabtit_onok"                  android:iconPreview="@drawable/ic_launcheeeer" />
+        
+    </Row>
+    <Row>
+        <Key android:codes="61854"   android:keyWidth="100dp"       android:keyHeight="110dp"                               android:keyIcon="@drawable/home_robe"                         android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left" />
+        <Key android:codes="61855"   android:keyWidth="100dp"       android:keyHeight="110dp"  android:horizontalGap="10dp"   android:keyIcon="@drawable/home_wall_clock"                   android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61856"   android:keyWidth="100dp"       android:keyHeight="110dp"  android:horizontalGap="10dp"   android:keyIcon="@drawable/home_sataar"                       android:iconPreview="@drawable/ic_launcheeeer" />
+        
+    </Row>
+     <Row>
+        <Key android:codes="61857"    android:keyWidth="100dp"       android:keyHeight="110dp"                              android:keyIcon="@drawable/home_sagad"                        android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left" />
+        <Key android:codes="61858"   android:keyWidth="100dp"       android:keyHeight="110dp"  android:horizontalGap="10dp"   android:keyIcon="@drawable/home_sakhan"                       android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61859"   android:keyWidth="100dp"       android:keyHeight="95dp"  android:horizontalGap="10dp"   android:keyIcon="@drawable/home_bed"                          android:iconPreview="@drawable/ic_launcheeeer" />
+        
+    </Row>
+      <Row>
+        <Key android:codes="61860"   android:keyWidth="100dp"       android:keyHeight="110dp"                               android:keyIcon="@drawable/home_hammer"                       android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left" />
+        <Key android:codes="61861"   android:keyWidth="100dp"       android:keyHeight="110dp"      android:horizontalGap="10dp"   android:keyIcon="@drawable/home_shambo_shaar"                 android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61862"  android:keyWidth="100dp"       android:keyHeight="110dp"      android:horizontalGap="10dp"   android:keyIcon="@drawable/home_shebsheb"                     android:iconPreview="@drawable/ic_launcheeeer" />
+        
+    </Row>
+       <Row>
+        <Key android:codes="61863"   android:keyWidth="100dp"       android:keyHeight="110dp"                               android:keyIcon="@drawable/home_sharab"                       android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left" />
+        <Key android:codes="61864"   android:keyWidth="100dp"       android:keyHeight="110dp"    android:horizontalGap="10dp"   android:keyIcon="@drawable/home_sharet_kaset"                 android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61865"   android:keyWidth="100dp"       android:keyHeight="110dp"     android:horizontalGap="10dp"   android:keyIcon="@drawable/home_shamsya"                      android:iconPreview="@drawable/ic_launcheeeer" />
+        
+    </Row>
+    <Row>
+        <Key android:codes="61866"   android:keyWidth="100dp"       android:keyHeight="110dp"                               android:keyIcon="@drawable/home_tawlit_makwa"                 android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left" />
+        <Key android:codes="61867"   android:keyWidth="100dp"       android:keyHeight="110dp"    android:horizontalGap="10dp"   android:keyIcon="@drawable/home_table"                        android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61868"   android:keyWidth="100dp"       android:keyHeight="110dp"    android:horizontalGap="10dp"   android:keyIcon="@drawable/home_dish"                         android:iconPreview="@drawable/ic_launcheeeer" />
+        
+    </Row>
+     <Row>
+        <Key android:codes="61869"   android:keyWidth="100dp"       android:keyHeight="110dp"                               android:keyIcon="@drawable/home_perfume"                      android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left" />
+        <Key android:codes="61870"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_okda"                         android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61871"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_ghas_tabaiee"                 android:iconPreview="@drawable/ic_launcheeeer" />
+        
+    </Row>
+     <Row>
+        <Key android:codes="61872"   android:keyWidth="100dp"       android:keyHeight="110dp"                               android:keyIcon="@drawable/home_ghasalh_aadia"                android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left" />
+        <Key android:codes="61873"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_ghaslah_automatic"            android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61874"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_ghtaaa"                       android:iconPreview="@drawable/ic_launcheeeer" />
+        
+    </Row>
+    <Row>
+        <Key android:codes="61875"   android:keyWidth="100dp"       android:keyHeight="110dp"                               android:keyIcon="@drawable/home_fanlih_malabs_dakhlya"        android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left" />
+        <Key android:codes="61876"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_fataht_ealab"                 android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61877"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_forshah"                      android:iconPreview="@drawable/ic_launcheeeer" />
+        
+    </Row>
+     <Row>
+        <Key android:codes="61878"   android:keyWidth="100dp"       android:keyHeight="110dp"                               android:keyIcon="@drawable/home_forn"                         android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left" />
+        <Key android:codes="61879"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_fengan_cafe"                  android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61880"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_fottah"                       android:iconPreview="@drawable/ic_launcheeeer" />
+        
+    </Row>
+      <Row>
+        <Key android:codes="61881"   android:keyWidth="100dp"       android:keyHeight="110dp"                               android:keyIcon="@drawable/home_video"                        android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left" />
+        <Key android:codes="61882"   android:keyWidth="100dp"       android:keyHeight="110dp"    android:horizontalGap="10dp"   android:keyIcon="@drawable/home_fiche_electric"               android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61883"   android:keyWidth="100dp"       android:keyHeight="110dp"    android:horizontalGap="10dp"   android:keyIcon="@drawable/home_woman_hat"                    android:iconPreview="@drawable/ic_launcheeeer" />
+        
+    </Row>
+     <Row>
+        <Key android:codes="61884"    android:keyWidth="100dp"       android:keyHeight="110dp"                              android:keyIcon="@drawable/home_men_hat"                      android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left" />
+        <Key android:codes="61885"   android:keyWidth="100dp"       android:keyHeight="110dp"    android:horizontalGap="10dp"   android:keyIcon="@drawable/home_cotton"                       android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61886"   android:keyWidth="100dp"       android:keyHeight="110dp"    android:horizontalGap="10dp"   android:keyIcon="@drawable/home_ola_maya"                     android:iconPreview="@drawable/ic_launcheeeer" />
+        
+    </Row>
+     <Row>
+        <Key android:codes="61887"   android:keyWidth="100dp"       android:keyHeight="110dp"                               android:keyIcon="@drawable/home_trash"                        android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left" />
+        <Key android:codes="61888"   android:keyWidth="100dp"       android:keyHeight="110dp"    android:horizontalGap="10dp"   android:keyIcon="@drawable/home_shirt"                        android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61889"   android:keyWidth="100dp"       android:keyHeight="110dp"    android:horizontalGap="10dp"   android:keyIcon="@drawable/home_camera_video"                 android:iconPreview="@drawable/ic_launcheeeer" />
+        
+    </Row>
+    <Row>
+        <Key android:codes="61890"   android:keyWidth="100dp"       android:keyHeight="110dp"                               android:keyIcon="@drawable/home_kohol_el_ain"                 android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left" />
+        <Key android:codes="61891"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_karafata"                     android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61892"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_chair"                        android:iconPreview="@drawable/ic_launcheeeer" />
+        
+    </Row>
+     <Row>
+        <Key android:codes="61893"   android:keyWidth="100dp"       android:keyHeight="110dp"                               android:keyIcon="@drawable/home_kreem_shaar"                  android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left" />
+        <Key android:codes="61894"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_computer"                     android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61895"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_komodino"                     android:iconPreview="@drawable/ic_launcheeeer" />
+        
+    </Row>
+     <Row>
+        <Key android:codes="61896"   android:keyWidth="100dp"       android:keyHeight="110dp"                               android:keyIcon="@drawable/home_lebas_afrangi"                android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left" />
+        <Key android:codes="61897"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_lebas_baladi"                 android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61898"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_lamba_folorist"               android:iconPreview="@drawable/ic_launcheeeer" />
+        
+    </Row>
+    <Row>
+        <Key android:codes="61899"   android:keyWidth="100dp"       android:keyHeight="110dp"                               android:keyIcon="@drawable/home_lamba"                        android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left" />
+        <Key android:codes="61900"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_mobared_maya"                 android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61901"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_mabshara"                     android:iconPreview="@drawable/ic_launcheeeer" />
+        
+    </Row>
+    <Row>
+        <Key android:codes="61902"    android:keyWidth="100dp"       android:keyHeight="110dp"                              android:keyIcon="@drawable/home_mirror"                       android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left" />
+        <Key android:codes="61903"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_ceiling_fan"                  android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61904"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_disk_fan"                     android:iconPreview="@drawable/ic_launcheeeer" />
+        
+    </Row>
+     <Row>
+        <Key android:codes="61905"   android:keyWidth="100dp"       android:keyHeight="110dp"                               android:keyIcon="@drawable/home_hand_fan"                     android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left" />
+        <Key android:codes="61906"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_maryala"                      android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61907"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_mesaha"                       android:iconPreview="@drawable/ic_launcheeeer" />
+        
+    </Row>
+     <Row>
+        <Key android:codes="61908"    android:keyWidth="100dp"       android:keyHeight="110dp"                              android:keyIcon="@drawable/home_mashbak"                      android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left" />
+        <Key android:codes="61909"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_moshtarak_kahrabi"            android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61910"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_mesht"                        android:iconPreview="@drawable/ic_launcheeeer" />
+        
+    </Row>
+     <Row>
+        <Key android:codes="61911"   android:keyWidth="100dp"       android:keyHeight="110dp"                               android:keyIcon="@drawable/home_mesfah"                       android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left" />
+        <Key android:codes="61912"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_madrab_beed"                  android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61913"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_maagoon_senan"                android:iconPreview="@drawable/ic_launcheeeer" />
+        
+    </Row>
+     <Row>
+        <Key android:codes="61914"    android:keyWidth="100dp"       android:keyHeight="110dp"                              android:keyIcon="@drawable/home_maghrafa"                     android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left" />
+        <Key android:codes="61915"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_electric_switch"              android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61916"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_mafrash_el_maaeda"            android:iconPreview="@drawable/ic_launcheeeer" />
+        
+    </Row>
+     <Row>
+        <Key android:codes="61917"   android:keyWidth="100dp"       android:keyHeight="110dp"                               android:keyIcon="@drawable/home_maframa"                      android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left" />
+        <Key android:codes="61918"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_mafak_test"                   android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61919"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_mafak_normal"                 android:iconPreview="@drawable/ic_launcheeeer" />
+        
+    </Row>
+    <Row>
+        <Key android:codes="61920"   android:keyWidth="100dp"       android:keyHeight="110dp"                               android:keyIcon="@drawable/home_makasha"                      android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left" />
+        <Key android:codes="61921"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_scissors"                     android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61922"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_mklaah"                       android:iconPreview="@drawable/ic_launcheeeer" />
+        
+    </Row>
+    <Row>
+        <Key android:codes="61923"   android:keyWidth="100dp"       android:keyHeight="110dp"                               android:keyIcon="@drawable/home_maknasa"                      android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left" />
+        <Key android:codes="61924"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_malaha"                       android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61925"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_alarm"                        android:iconPreview="@drawable/ic_launcheeeer" />
+        
+    </Row>
+    <Row>
+        <Key android:codes="61926"   android:keyWidth="100dp"       android:keyHeight="110dp"                               android:keyIcon="@drawable/home_mobile"                       android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left" />
+        <Key android:codes="61927"   android:keyWidth="100dp"       android:keyHeight="110dp"     android:horizontalGap="10dp"   android:keyIcon="@drawable/home_mezan_ardya"                  android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61928"   android:keyWidth="100dp"       android:keyHeight="110dp"     android:horizontalGap="10dp"   android:keyIcon="@drawable/home_microwave"                    android:iconPreview="@drawable/ic_launcheeeer" />
+        
+    </Row>
+    <Row>
+        <Key android:codes="61929"   android:keyWidth="100dp"       android:keyHeight="110dp"                               android:keyIcon="@drawable/home_natega"                       android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left" />
+        <Key android:codes="61930"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_nagaf"                        android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61931"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_nakab"                        android:iconPreview="@drawable/ic_launcheeeer" />
+         
+    </Row>
+    <Row>
+        <Key android:codes="61932"   android:keyWidth="100dp"       android:keyHeight="110dp"                               android:keyIcon="@drawable/home_antarih"                      android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left" />
+        <Key android:codes="61933"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_barad_shay"                   android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61934"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_earring"                      android:iconPreview="@drawable/ic_launcheeeer" />
+        
+    </Row>
+    <Row>
+        <Key android:codes="61935"   android:keyWidth="100dp"       android:keyHeight="110dp"                               android:keyIcon="@drawable/home_halh"                         android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left" />
+        <Key android:codes="61936"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_khatem"                       android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61937"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_deblh"                        android:iconPreview="@drawable/ic_launcheeeer" />
+          
+    </Row>
+    <Row>
+        <Key android:codes="61938"   android:keyWidth="100dp"       android:keyHeight="110dp"                               android:keyIcon="@drawable/home_knife"                        android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left" />
+        <Key android:codes="61939"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_window"                       android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61940"   android:keyWidth="100dp"       android:keyHeight="110dp"    android:horizontalGap="10dp"   android:keyIcon="@drawable/home_shokah"                       android:iconPreview="@drawable/ic_launcheeeer" />
+        
+    </Row>
+    <Row>
+        <Key android:codes="61941"   android:keyWidth="100dp"       android:keyHeight="110dp"                               android:keyIcon="@drawable/home_saalh"                        android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left" />
+        <Key android:codes="61942"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_saloon"                       android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61943"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_sahan"                        android:iconPreview="@drawable/ic_launcheeeer" />
+        
+    </Row>
+    <Row>
+        <Key android:codes="61944"   android:keyWidth="100dp"       android:keyHeight="110dp"                               android:keyIcon="@drawable/home_kabreet"                      android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left" />
+        <Key android:codes="61945"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_book"                         android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61946"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_cup"                          android:iconPreview="@drawable/ic_launcheeeer" />
+        
+    </Row>
+    <Row>
+        <Key android:codes="61947"   android:keyWidth="100dp"       android:keyHeight="110dp"                               android:keyIcon="@drawable/home_spone"                        android:iconPreview="@drawable/ic_launcheeeer" android:keyEdgeFlags="left" />
+        <Key android:codes="61948"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_makwa"                        android:iconPreview="@drawable/ic_launcheeeer" />
+        <Key android:codes="61949"   android:keyWidth="100dp"       android:keyHeight="110dp"   android:horizontalGap="10dp"   android:keyIcon="@drawable/home_nazarah"                      android:iconPreview="@drawable/ic_launcheeeer" />
+        
+    </Row>	        
+
+</Keyboard>

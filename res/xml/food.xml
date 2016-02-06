@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="100dp"
+    android:keyHeight="110dp"
+    android:verticalGap="10dp">
+    <Row>
+        <Key android:codes="61596"                                android:keyIcon="@drawable/food_shatah" android:iconPreview="@drawable/food_shatah_p"  android:keyEdgeFlags="left"  />
+        <Key android:codes="61597"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_soap" android:iconPreview="@drawable/food_soap_p" />
+        <Key android:codes="61598"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_bamya" android:iconPreview="@drawable/food_bamya_p" />
+    </Row>
+        
+    <Row> 
+        <Key android:codes="61599"                                android:keyIcon="@drawable/food_batata" android:iconPreview="@drawable/food_batata_p" android:keyEdgeFlags="left" />
+        <Key android:codes="61600"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_batats_mahamra" android:iconPreview="@drawable/food_batats_mahamr_p" />
+        <Key android:codes="61601"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_batats_mahrosa" android:iconPreview="@drawable/food_batats_mahrosa_p" />
+   </Row>
+   
+   <Row> 
+        <Key android:codes="61602"                                android:keyIcon="@drawable/food_teen_shokii" android:iconPreview="@drawable/food_teen_shokii_p" android:keyEdgeFlags="left" />
+        <Key android:codes="61603"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_khyar" android:iconPreview="@drawable/food_khyar_p" />
+        <Key android:codes="61604"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_romann" android:iconPreview="@drawable/food_romann_p" />
+   </Row> 
+   
+   <Row> 
+        
+        <Key android:codes="61605"                                android:keyIcon="@drawable/food_shawrma" android:iconPreview="@drawable/food_shawrma_p" android:keyEdgeFlags="left" />
+        <Key android:codes="61606"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_taaamya" android:iconPreview="@drawable/food_taamya_p"  />
+        <Key android:codes="61607"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_anab" android:iconPreview="@drawable/food_anab_p"  />
+   </Row>
+   
+   <Row> 
+        
+        <Key android:codes="61608"                                android:keyIcon="@drawable/food_falfal_har" android:iconPreview="@drawable/food_falfal_har_p" android:keyEdgeFlags="left" />
+        <Key android:codes="61609"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_falamnk" android:iconPreview="@drawable/food_falamnk_p" />
+        <Key android:codes="61610"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_fol_sodaniiiii" android:iconPreview="@drawable/food_fol_sodaniiiii_p"  />
+   </Row>
+   
+   <Row> 
+        
+        <Key android:codes="61611"                                android:keyIcon="@drawable/food_feshar" android:iconPreview="@drawable/food_feshar_p"  android:keyEdgeFlags="left"/>
+        <Key android:codes="61612"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_fenoo" android:iconPreview="@drawable/food_fenoo_p"  />
+        <Key android:codes="61613"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_arafa" android:iconPreview="@drawable/food_arafa_p" />
+   </Row>
+   
+   <Row> 
+        
+        <Key android:codes="61614"                                android:keyIcon="@drawable/food_karkadyh" android:iconPreview="@drawable/food_karkadyh_p" android:keyEdgeFlags="left"/>
+        <Key android:codes="61615"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_koronb" android:iconPreview="@drawable/food_koronb_p" />
+        <Key android:codes="61616"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_koshary"   android:iconPreview="@drawable/food_koshary_p"  />
+   </Row>
+   
+   <Row> 
+        
+        <Key android:codes="61617"                                android:keyIcon="@drawable/food_kofta_mashwya" android:iconPreview="@drawable/food_kofta_mashwya_p" android:keyEdgeFlags="left" />
+        <Key android:codes="61618"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_cake" android:iconPreview="@drawable/food_cake_p" />
+        <Key android:codes="61619"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_lesan_elasfoor" android:iconPreview="@drawable/food_lesan_elasfoor" />
+   </Row>
+   
+   <Row> 
+        
+        <Key android:codes="61620"                                android:keyIcon="@drawable/food_banana" android:iconPreview="@drawable/food_banana_p" android:keyEdgeFlags="left"/>
+        <Key android:codes="61621"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_nescafe" android:iconPreview="@drawable/food_nescafe_p"  />
+        <Key android:codes="61622"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_burger" android:iconPreview="@drawable/food_burger_p"  />
+   </Row>
+   
+   <Row> 
+       
+        <Key android:codes="61623"                                android:keyIcon="@drawable/food_yansooon" android:iconPreview="@drawable/food_yansooon_p" android:keyEdgeFlags="left"/>
+        <Key android:codes="61624"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_orz" android:iconPreview="@drawable/food_orz_p"  />
+        <Key android:codes="61625"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_ananas" android:iconPreview="@drawable/food_ananas_p"   />
+   </Row>
+   
+   <Row>
+        
+        <Key android:codes="61626"                                android:keyIcon="@drawable/food_bselah" android:iconPreview="@drawable/food_bselah_p" android:keyEdgeFlags="left"/>
+        <Key android:codes="61627"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_bateeekh" android:iconPreview="@drawable/food_bateeekh_p" />
+        <Key android:codes="61628"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_balah" android:iconPreview="@drawable/food_balah_p"  />
+   </Row>
+   
+   
+   <Row> 
+        <Key android:codes="61629"                                android:keyIcon="@drawable/food_apples" android:iconPreview="@drawable/food_apples_p" android:keyEdgeFlags="left" />
+        <Key android:codes="61630"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_teen" android:iconPreview="@drawable/food_teen_p" />
+        <Key android:codes="61631"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_garlic" android:iconPreview="@drawable/food_garlic_p" />
+   </Row>
+   
+   <Row> 
+        <Key android:codes="61632"                                android:keyIcon="@drawable/food_carrots" android:iconPreview="@drawable/food_carrots_p" android:keyEdgeFlags="left" />
+        <Key android:codes="61633"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_camel" android:iconPreview="@drawable/food_camel_p" />
+        <Key android:codes="61634"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_chikens" android:iconPreview="@drawable/food_chikens_p"  />
+   </Row>
+   
+   <Row> 
+        <Key android:codes="61635"                                android:keyIcon="@drawable/food_fishs" android:iconPreview="@drawable/food_fishs_p" android:keyEdgeFlags="left" />
+        <Key android:codes="61636"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_sheaarya" android:iconPreview="@drawable/food_sheaarya_p" />
+        <Key android:codes="61637"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_ads_asfr" android:iconPreview="@drawable/food_ads_asfr_p"  />
+   </Row>
+   
+   <Row> 
+        <Key android:codes="61638"                                android:keyIcon="@drawable/food_asl_abyad" android:iconPreview="@drawable/food_asl_abyad_p" android:keyEdgeFlags="left" />
+        <Key android:codes="61639"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_asl_eswed" android:iconPreview="@drawable/food_asl_eswed_p" />
+        <Key android:codes="61640"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_bread" android:iconPreview="@drawable/food_bread_p" />
+   </Row>
+   
+   <Row> 
+        <Key android:codes="61641"                                android:keyIcon="@drawable/food_filfil_aswed" android:iconPreview="@drawable/food_filfil_aswed_p" android:keyEdgeFlags="left" />
+        <Key android:codes="61642"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_falamnk_two" android:iconPreview="@drawable/food_falamnk_two_p" />
+        <Key android:codes="61643"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_karmoot" android:iconPreview="@drawable/food_karmoot_p" />
+   </Row>
+   
+   <Row> 
+        <Key android:codes="61644"                                android:keyIcon="@drawable/food_leb_asmr" android:iconPreview="@drawable/food_leb_asmr_p" android:keyEdgeFlags="left" />
+        <Key android:codes="61645"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_laham_kofta" android:iconPreview="@drawable/food_laham_kofta_p" />
+        <Key android:codes="61646"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_meat" android:iconPreview="@drawable/food_meat_p" />
+   </Row>
+   
+   <Row> 
+        <Key android:codes="61647"                                android:keyIcon="@drawable/food_bazangan_white" android:iconPreview="@drawable/food_bazangan_white_p" android:keyEdgeFlags="left" />
+        <Key android:codes="61648"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_cows" android:iconPreview="@drawable/food_cow_p" />
+        <Key android:codes="61649"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_brill" android:iconPreview="@drawable/food_brill_p" />
+   </Row>
+   
+   <Row> 
+        <Key android:codes="61650"                                android:keyIcon="@drawable/food_shrimp" android:iconPreview="@drawable/food_shrimp_p" android:keyEdgeFlags="left" />
+        <Key android:codes="61651"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_hasaa_shorba" android:iconPreview="@drawable/food_hasaa_shorba_p" />
+        <Key android:codes="61652"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_flour" android:iconPreview="@drawable/food_flour_p" />
+   </Row>
+   
+   <Row> 
+        <Key android:codes="61653"                                android:keyIcon="@drawable/food_zoraa" android:iconPreview="@drawable/food_zoraa_p" android:keyEdgeFlags="left" />
+        <Key android:codes="61654"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_oil" android:iconPreview="@drawable/food_oil_p" />
+        <Key android:codes="61656"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_suger" android:iconPreview="@drawable/food_suger_p" />
+   </Row>
+   
+   <Row> 
+        <Key android:codes="61657"                                android:keyIcon="@drawable/food_tea" android:iconPreview="@drawable/food_tea_p" android:keyEdgeFlags="left" />
+        <Key android:codes="61658"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_torshii" android:iconPreview="@drawable/food_torshii_p" />
+        <Key android:codes="61659"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_farike" android:iconPreview="@drawable/food_farike_p" />
+   </Row>
+   
+   <Row> 
+        <Key android:codes="61660"                                android:keyIcon="@drawable/food_fasolya_abid" android:iconPreview="@drawable/food_fasolya_abid_p" android:keyEdgeFlags="left" />
+        <Key android:codes="61661"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_foool" android:iconPreview="@drawable/food_foool_p" />
+        <Key android:codes="61662"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_cantaloob" android:iconPreview="@drawable/food_cantaloob_p" />
+   </Row>
+   
+   <Row> 
+        <Key android:codes="61663"                                android:keyIcon="@drawable/food_leb_abyad" android:iconPreview="@drawable/food_leb_abyad_p" android:keyEdgeFlags="left" />
+        <Key android:codes="61664"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_milk" android:iconPreview="@drawable/food_milk_p" />
+        <Key android:codes="61665"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_lobya" android:iconPreview="@drawable/food_lobya_p" />
+   </Row>
+   
+   <Row> 
+        <Key android:codes="61666"                                android:keyIcon="@drawable/food_mango" android:iconPreview="@drawable/food_mango_p" android:keyEdgeFlags="left" />
+        <Key android:codes="61667"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_makroona" android:iconPreview="@drawable/food_makroona_p" />
+        <Key android:codes="61668"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_salt" android:iconPreview="@drawable/food_salt_p" />
+   </Row>
+   
+   <Row> 
+        <Key android:codes="61669"                                android:keyIcon="@drawable/food_botatoo" android:iconPreview="@drawable/food_batata_p" android:keyEdgeFlags="left" />
+        <Key android:codes="61670"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_pepsi" android:iconPreview="@drawable/food_pepsi_p" />
+        <Key android:codes="61671"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_gawafa" android:iconPreview="@drawable/food_gawafa_p" />
+   </Row>
+   
+   <Row> 
+        <Key android:codes="61672"                                android:keyIcon="@drawable/food_gooz_hend" android:iconPreview="@drawable/food_gooz_hend_p" android:keyEdgeFlags="left" />
+        <Key android:codes="61673"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_hoomos_elsham" android:iconPreview="@drawable/food_hoomos_elsham_p" />
+        <Key android:codes="61674"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_kharashoof" android:iconPreview="@drawable/food_kharashoof_p" />
+   </Row>
+   
+   <Row> 
+        <Key android:codes="61675"                                android:keyIcon="@drawable/food_khass" android:iconPreview="@drawable/food_khass_p" android:keyEdgeFlags="left" />
+        <Key android:codes="61676"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_sabankh" android:iconPreview="@drawable/food_sabankh_p" />
+        <Key android:codes="61677"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_stellla" android:iconPreview="@drawable/food_stellla_p" />
+   </Row>
+   
+   <Row> 
+        <Key android:codes="61678"                                android:keyIcon="@drawable/food_eish_elghorab" android:iconPreview="@drawable/food_eish_elghorab_p" android:keyEdgeFlags="left" />
+        <Key android:codes="61679"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_fasolya_khadra" android:iconPreview="@drawable/food_fasolya_khadra_p" />
+        <Key android:codes="61680"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_farawala" android:iconPreview="@drawable/food_farawala_p" />
+   </Row>
+   
+   <Row> 
+        <Key android:codes="61681"                                android:keyIcon="@drawable/food_filfil_roomy" android:iconPreview="@drawable/food_filfil_roomy_p" android:keyEdgeFlags="left" />
+        <Key android:codes="61682"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_kolkas" android:iconPreview="@drawable/food_kolkas_p" />
+        <Key android:codes="61683"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_coffee" android:iconPreview="@drawable/food_coffee_p" />
+   </Row>
+   
+   <Row> 
+        <Key android:codes="61684"                                android:keyIcon="@drawable/food_komthra" android:iconPreview="@drawable/food_komthra_p" android:keyEdgeFlags="left" />
+        <Key android:codes="61685"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_kosa" android:iconPreview="@drawable/food_kosa_p" />
+        <Key android:codes="61686"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_mishmish" android:iconPreview="@drawable/food_mishmish_p" />
+   </Row>
+   
+   <Row> 
+        <Key android:codes="61687"                                android:keyIcon="@drawable/food_molkhoya" android:iconPreview="@drawable/food_molkhoya_p" android:keyEdgeFlags="left" />
+        <Key android:codes="61688"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_mrinda_orange" android:iconPreview="@drawable/food_mrinda_orange_p" />
+        <Key android:codes="61689"   android:horizontalGap="10dp" android:keyIcon="@drawable/food_mint" android:iconPreview="@drawable/food_mint_p" />
+   </Row>
+   
+   <Row> 
+        <Key android:codes="61690"                                android:keyIcon="@drawable/food_yossfi" android:iconPreview="@drawable/food_yossfi_p" android:keyEdgeFlags="left" />
+        
+   </Row>   
+</Keyboard>    
